@@ -1,0 +1,7 @@
+hr-analytics/
+│
+├── 📄  hrdata.csv                      # Source dataset (1,470 records, 15 columns)
+├── 📊  hr_report.pbix                  # Power BI dashboard file
+├── 📝  queries.docx                    # Full SQL query reference (11 queries)
+├── 📋  SQL_Test_Document_Power_BI.docx # QA test document — all 11 tests PASS
+└── 📑  HR_Analytics_Report_v2.docx     # Final analytical report with embedded dashboard
